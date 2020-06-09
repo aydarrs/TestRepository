@@ -17,6 +17,7 @@ public class Solution {
 
         System.out.println("Hello, World!");
 		System.out.println("Training git!");
+		System.out.println("Training git!");
         switch (var) {
             case 1:
                 System.out.println(s.equals("Another string"));
